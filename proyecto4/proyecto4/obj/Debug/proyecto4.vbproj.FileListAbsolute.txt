@@ -1,0 +1,12 @@
+C:\MAURICIO 25966\proyecto4\proyecto4\bin\Debug\proyecto4.exe.config
+C:\MAURICIO 25966\proyecto4\proyecto4\bin\Debug\proyecto4.exe
+C:\MAURICIO 25966\proyecto4\proyecto4\bin\Debug\proyecto4.pdb
+C:\MAURICIO 25966\proyecto4\proyecto4\bin\Debug\proyecto4.xml
+C:\MAURICIO 25966\proyecto4\proyecto4\obj\Debug\proyecto4.vbprojAssemblyReference.cache
+C:\MAURICIO 25966\proyecto4\proyecto4\obj\Debug\proyecto4.Form1.resources
+C:\MAURICIO 25966\proyecto4\proyecto4\obj\Debug\proyecto4.Resources.resources
+C:\MAURICIO 25966\proyecto4\proyecto4\obj\Debug\proyecto4.vbproj.GenerateResource.cache
+C:\MAURICIO 25966\proyecto4\proyecto4\obj\Debug\proyecto4.vbproj.CoreCompileInputs.cache
+C:\MAURICIO 25966\proyecto4\proyecto4\obj\Debug\proyecto4.exe
+C:\MAURICIO 25966\proyecto4\proyecto4\obj\Debug\proyecto4.xml
+C:\MAURICIO 25966\proyecto4\proyecto4\obj\Debug\proyecto4.pdb
