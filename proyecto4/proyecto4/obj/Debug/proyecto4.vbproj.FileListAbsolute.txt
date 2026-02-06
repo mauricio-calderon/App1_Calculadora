@@ -10,3 +10,15 @@ C:\MAURICIO 25966\proyecto4\proyecto4\obj\Debug\proyecto4.vbproj.CoreCompileInpu
 C:\MAURICIO 25966\proyecto4\proyecto4\obj\Debug\proyecto4.exe
 C:\MAURICIO 25966\proyecto4\proyecto4\obj\Debug\proyecto4.xml
 C:\MAURICIO 25966\proyecto4\proyecto4\obj\Debug\proyecto4.pdb
+C:\Users\MAESTRO512\Downloads\App1_Calculadora-main\App1_Calculadora-main\proyecto4\proyecto4\bin\Debug\proyecto4.exe.config
+C:\Users\MAESTRO512\Downloads\App1_Calculadora-main\App1_Calculadora-main\proyecto4\proyecto4\bin\Debug\proyecto4.exe
+C:\Users\MAESTRO512\Downloads\App1_Calculadora-main\App1_Calculadora-main\proyecto4\proyecto4\bin\Debug\proyecto4.pdb
+C:\Users\MAESTRO512\Downloads\App1_Calculadora-main\App1_Calculadora-main\proyecto4\proyecto4\bin\Debug\proyecto4.xml
+C:\Users\MAESTRO512\Downloads\App1_Calculadora-main\App1_Calculadora-main\proyecto4\proyecto4\obj\Debug\proyecto4.vbprojAssemblyReference.cache
+C:\Users\MAESTRO512\Downloads\App1_Calculadora-main\App1_Calculadora-main\proyecto4\proyecto4\obj\Debug\proyecto4.Form1.resources
+C:\Users\MAESTRO512\Downloads\App1_Calculadora-main\App1_Calculadora-main\proyecto4\proyecto4\obj\Debug\proyecto4.Resources.resources
+C:\Users\MAESTRO512\Downloads\App1_Calculadora-main\App1_Calculadora-main\proyecto4\proyecto4\obj\Debug\proyecto4.vbproj.GenerateResource.cache
+C:\Users\MAESTRO512\Downloads\App1_Calculadora-main\App1_Calculadora-main\proyecto4\proyecto4\obj\Debug\proyecto4.vbproj.CoreCompileInputs.cache
+C:\Users\MAESTRO512\Downloads\App1_Calculadora-main\App1_Calculadora-main\proyecto4\proyecto4\obj\Debug\proyecto4.exe
+C:\Users\MAESTRO512\Downloads\App1_Calculadora-main\App1_Calculadora-main\proyecto4\proyecto4\obj\Debug\proyecto4.xml
+C:\Users\MAESTRO512\Downloads\App1_Calculadora-main\App1_Calculadora-main\proyecto4\proyecto4\obj\Debug\proyecto4.pdb
